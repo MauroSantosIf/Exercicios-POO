@@ -1,0 +1,8 @@
+{
+  "[json]": {
+    "editor.quickSuggestions": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.parameterHints.enabled": false,
+    "editor.hover.enabled": false
+  }
+}

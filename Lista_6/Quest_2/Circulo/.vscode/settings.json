@@ -1,0 +1,32 @@
+{
+    // Configurações do projeto Java
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+
+    // Desativa sugestões da extensão Java
+    "java.suggest.enabled": false,
+
+    // Desativa sugestões rápidas do editor
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+
+    // Desativa sugestões baseadas em palavras existentes no arquivo
+    "editor.wordBasedSuggestions": "off",
+
+    // Impede inserção automática de sugestões
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+
+    // Mantém realce de sintaxe
+    "editor.semanticHighlighting.enabled": false,
+
+    // Mantém verificação de erros do Java
+    "java.errors.incompleteClasspath.severity": "warning"
+}
+
