@@ -16,4 +16,4 @@ Este repositório tem como objetivo reunir **todas as listas de questões dos ex
 
 ---
 
-> ⚠️ Observação: Este repositório será atualizado constantemente à medida que novas listas de exercícios forem criadas.
+> ⚠️ Observação: Este repositório será atualizado constantemente à medida que novas listas de exercícios forem criadas ou eu responda
